@@ -1,4 +1,4 @@
-<img width="740" height="754" alt="image" src="https://github.com/user-attachments/assets/dc1b7e37-a8d1-453c-acdb-36e56f2fff57" />Este projeto, desenvolvido para a disciplina de Interface e Jornada do Usuário do curso de Análise e Desenvolvimento de Sistemas (ADS) do CEUNSP, apresenta a proposta de uma plataforma de software educacional integrada.
+Este projeto, desenvolvido para a disciplina de Interface e Jornada do Usuário do curso de Análise e Desenvolvimento de Sistemas (ADS) do CEUNSP, apresenta a proposta de uma plataforma de software educacional integrada.
 
 A ideia central é criar uma solução única capaz de atender às principais necessidades de todos os setores de uma instituição de ensino, centralizando funcionalidades em um único sistema intuitivo e eficiente.
 
