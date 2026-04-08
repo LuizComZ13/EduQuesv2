@@ -9,4 +9,4 @@ Já para os professores, o sistema disponibiliza funcionalidades voltadas à ges
 Na perspectiva da gestão escolar, a plataforma contribui para a administração institucional, oferecendo suporte à área financeira, relatórios de desempenho de turmas e docentes, além de outras funcionalidades essenciais para o bom funcionamento da escola.
 
 Dessa forma, o projeto busca não apenas otimizar processos, mas também contribuir para a melhoria da qualidade do ensino, preparando os alunos de maneira mais eficiente para os desafios do futuro.
-<img width="740" height="754" alt="image" src="https://github.com/user-attachments/assets/68f03ef5-6d81-47cf-b596-a5b2324f1c1e" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/68f03ef5-6d81-47cf-b596-a5b2324f1c1e" />
