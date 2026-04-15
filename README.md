@@ -10,4 +10,3 @@ Na perspectiva da gestão escolar, a plataforma contribui para a administração
 
 Dessa forma, o projeto busca não apenas otimizar processos, mas também contribuir para a melhoria da qualidade do ensino, preparando os alunos de maneira mais eficiente para os desafios do futuro.
 
-![WhatsApp Image 2026-04-08 at 20 27 05](https://github.com/user-attachments/assets/e05f6ff3-27ab-44c1-9336-257854dd5ec9)
